@@ -16,8 +16,8 @@ This repository is part of the Zygos Mask Lights project, inserting leds into ma
 This part contains the Inkscape SVG plan of a box for a NodeMCU card.
 
 The other parts are:
-- zml_wsserver: code of the microcontroller listening the network via WebSocket, and command the leds inside the mask.
-- zml_webcontrol: an html page for sending commands via WebSocket.
+- [zml_wsserver](https://github.com/joliclic/zml_wsserver): code of the microcontroller listening the network via WebSocket, and command the leds inside the mask.
+- [zml_webcontrol](https://github.com/joliclic/zml_webcontrol): an html page for sending commands via WebSocket.
 
 
 What is ZYGOS MASKS LIGHTS ?
